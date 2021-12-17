@@ -8,7 +8,8 @@
 
 
 ### Analysis of Outcomes Based on Launch Date
-	Used the pivot table to create the line chart with the month & the outcome using the theater as the filter for the parent category
+	Used the pivot table to create the line chart with the month 
+	& the outcome using the theater as the filter for the parent category
 
 ### Analysis of Outcomes Based on Goals
 	To figure out the outcome of the campaign depending upon campaign goal amount 
@@ -21,12 +22,10 @@
  	Two conclusion that could be drawn from the Launch date with respect to campaign goal is:
 		The campaign was successful when launched in May
 		The number of cancellation was more or less the throughout the year
-![image 1](Resources/Outcomes_vs_Goals.png))
 ###
 	Outcomes based on Goals Conclusion 
 		The sucees rate was higher for lower campaign goals 
-		INSERT THE CHART HERE ?????
-
+		
 ###
 	The limitations of this dataset
 		The dataset doesn't have the benefits the backer would get depending on their pledge
