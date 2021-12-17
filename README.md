@@ -14,13 +14,14 @@
 	To figure out the outcome of the campaign depending upon campaign goal amount 
 
 ### Challenges and Difficulties Encountered
-	Was not familiar with countif function. Didn't understand how the parameters had to be passed.
+	Was not familiar with countif function. 
+	Didn't understand how the parameters had to be passed.
 	Missed reading the filter by sub catogory and was wondering why graphs didn't match.
 ### Results
  	Two conclusion that could be drawn from the Launch date with respect to campaign goal is:
 		The campaign was successful when launched in May
 		The number of cancellation was more or less the throughout the year
-	![image 1](Resources/Outcomes_vs_Goals.png)
+![image 1](Resources/Outcomes_vs_Goals.png))
 ###
 	Outcomes based on Goals Conclusion 
 		The sucees rate was higher for lower campaign goals 
