@@ -20,7 +20,7 @@
  	Two conclusion that could be drawn from the Launch date with respect to campaign goal is:
 		The campaign was successful when launched in May
 		The number of cancellation was more or less the throughout the year
-	![image 1]
+	![image 1](Resources/Outcomes_vs_Goals.png)
 ###
 	Outcomes based on Goals Conclusion 
 		The sucees rate was higher for lower campaign goals 
