@@ -15,27 +15,28 @@
 	Created the line chart from pivot table with outcome vs launch month. 
 	
 ### Analysis of Outcomes Based on Goals
-	Created a table of different range of campaign goal amounts to be comapred with the percentage of success, 
-	failure & cancelled campaigns related subcatogory "plays".
-	Created line chart of outcomes( success/failed/cancelled) vs differnt goal ranges.
+	Created a table of different range of campaign goal amounts to be comapred with 
+	the percentage of success, failure & cancelled campaigns related subcatogory "plays".
+	Created line chart of outcomes (success/failed/cancelled) vs differnt goal ranges.
 	
 ### Challenges and Difficulties Encountered
-	Was not familiar with countif function.
-	Didn't understand how the parameters had to be passed.
-	Missed reading the filter by sub catogory and was wondering why graphs didn't match.
+	I was not familiar with countif function, didn't understand how the parameters had to be passed.
+	Missed requirment to select the sub catogory "plays" and was wondering why graphs didn't match with the requirement.
+	
 ### Results
- 	Two conclusion that could be drawn from the Launch date with respect to campaign goal is:
-		The campaign was successful when launched in May
-		The number of cancellation was more or less the throughout the year
+ 	Two conclusion that I drew from the Launch date with respect to campaign goal are:
+		The campaign success varies by launch month. The campaign is more successful in summer and drops in December. 
+		Cancellations were more or less the same throughout the year.
 ###
 	Outcomes based on Goals Conclusion 
-		The sucees rate was higher for lower campaign goals 
+		Campaigns were more successful for the lower goal amount range( upto 20K).At 20,000 the chances of success & failure were same.
+		For higher goals range (graeter than 35000) number of "plays" data was very few to draw any conclusions. 
 		
 ###
 	The limitations of this dataset
-		The dataset doesn't have the benefits the backer would get depending on their pledge
+		Dataset doesn't have the rewards/benefits the backer's would get depending on their pledge.
 
 ###
 	What are some other possible tables and/or graphs that we could create?
-		Theater outcome by the backer
-		Theater outcome by country
+		We can also create the above graphs by filtered by country.
+		We can create box & whiskers charts to find out the outliers in the data.
