@@ -29,8 +29,9 @@
 		Cancellations were more or less the same throughout the year.
 ###
 	Outcomes based on Goals Conclusion 
-		Campaigns were more successful for the lower goal amount range( upto 20K).At 20,000 the chances of success & failure were same.
-		For higher goals range (graeter than 35000) number of "plays" data was very few to draw any conclusions. 
+		Campaigns were more successful for the lower goal amount range( upto 20K).
+		At 20,000 the chances of success & failure were same. For higher goals range (graeter than 35000) 
+		number of "plays" data was very few to draw any conclusions. 
 		
 ###
 	The limitations of this dataset
