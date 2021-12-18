@@ -1,21 +1,26 @@
 # Kickstarting with Excel
 
 ##    Overview of Project
-	To find out how different campaign faired in comparison to launch date & funding goals.
-### Purpose
-	Help figure Louise if her campaign will be a success with the given data/facts
+	To find out how different campaigns fared based on differnet launch dates & funding goals,
+	using Excel and kickstart data.
+	By derterming the best month & funding goal amount will help Louise the success of her fundraising campaign .
+	It will help Louise select best combination of launch month & funding goal amount to assure the seccuess of future campaigns .
+	
+	
 ## Analysis and Challenges
 
 
 ### Analysis of Outcomes Based on Launch Date
-	Used the pivot table to create the line chart with the month 
-	& the outcome using the theater as the filter for the parent category
-
+	Created the pivot table from Kickstart data with theater as the filter for parent catogory. 
+	Created the line chart from pivot table with outcome vs launch month. 
+	
 ### Analysis of Outcomes Based on Goals
-	To figure out the outcome of the campaign depending upon campaign goal amount 
-
+	Created a table of different range of campaign goal amounts to be comapred with the percentage of success, 
+	failure & cancelled campaigns related subcatogory "plays".
+	Created line chart of outcomes( success/failed/cancelled) vs differnt goal ranges.
+	
 ### Challenges and Difficulties Encountered
-	Was not familiar with countif function. 
+	Was not familiar with countif function.
 	Didn't understand how the parameters had to be passed.
 	Missed reading the filter by sub catogory and was wondering why graphs didn't match.
 ### Results
