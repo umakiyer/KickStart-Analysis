@@ -1,10 +1,9 @@
-# Kickstarting with Excel
+# Kickstart Data Analysis with Excel
 
 ##    Overview of Project
 	To find out how different campaigns fared based on differnet launch dates & funding goals,
-	using Excel and kickstart data.
-	By derterming the best month & funding goal amount will help Louise the success of her fundraising campaign .
-	It will help Louise select best combination of launch month & funding goal amount to assure the seccuess of future campaigns .
+	using Excel and kickstart data. By determining the best month & funding goal amount will help
+	Louise the success of her future fundraising campaign. 
 	
 	
 ## Analysis and Challenges
@@ -21,12 +20,14 @@
 	
 ### Challenges and Difficulties Encountered
 	I was not familiar with countif function, didn't understand how the parameters had to be passed.
-	Missed requirment to select the sub catogory "plays" and was wondering why graphs didn't match with the requirement.
+	Missed requirment to select the sub catogory "plays" and was wondering why graphs didn't match 
+	with the requirement.
 	
 ### Results
  	Two conclusion that I drew from the Launch date with respect to campaign goal are:
-		The campaign success varies by launch month. The campaign is more successful in summer and drops in December. 
-		Cancellations were more or less the same throughout the year.
+		-The campaign success varies by launch month. The campaign is more successful in summer 
+		  and drops in December. 
+		-Cancellations were more or less the same throughout the year.
 ###
 	Outcomes based on Goals Conclusion 
 		Campaigns were more successful for the lower goal amount range( upto 20K).
